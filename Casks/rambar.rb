@@ -1,6 +1,6 @@
 cask "rambar" do
-  version "1.1.0"
-  sha256 "e36793e406dbe09e3edf890aee4f495cde0272407799006ab89b85694eb8e599"
+  version "1.2.0"
+  sha256 "0ae84cf5ec455f6916b59cc3e1ed8abf57ac6d6539136af27546188a7a4dd58f"
 
   url "https://github.com/MaxGhenis/rambar/releases/download/v#{version}/RAMBar.zip"
   name "RAMBar"
